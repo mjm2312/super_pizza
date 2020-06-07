@@ -1,3 +1,1 @@
-## My Pizza Project
-
-I love pizza
+## Pizza Project
